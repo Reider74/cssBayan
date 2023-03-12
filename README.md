@@ -1,2 +1,2 @@
 # cssBayan
-https://$Reider74.github.io/cssBayan/cssBayan/index.html
+https://Reider74.github.io/cssBayan/cssBayan/index.html
